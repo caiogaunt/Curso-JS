@@ -1,1 +1,3 @@
-window.alert("Olá Mundo")
+console.log(
+    document.getElementsByClassName("carro")
+)
